@@ -1,7 +1,5 @@
----
-title: "Authorized Patent"
----
-
+Authorized Patent
+==
   
 PCT
 ======
