@@ -21,7 +21,8 @@ You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
 Professional Experience
 ======
-* 2022.03- Today COO and Business Division GM, BTD Technology.
+* 2023.08-today Professor and Deputy Director, Ningbo Institute of Digital Twin, Eastern Institute of Technology.
+* 2022.03-today COO and Business Division GM, BTD Technology.
 * 2022.03-2023.08 Associate Research, Southern University of Science and Technology.
 * 2019.03-2022.02 VP of Technology, DMAI Co., Ltd.
 * 2018.04-2019.04 Visiting Researcher, Hongkong University.
